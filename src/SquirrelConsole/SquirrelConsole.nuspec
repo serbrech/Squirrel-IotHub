@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SquirrelConsole</id>
+    <!-- version will be replaced by MSBuild -->
+    <version>0.0.0.0</version>
+    <title>SquirrelConsole Auto Update</title>
+    <authors>MS</authors>
+    <owners></owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Squirrel Sample</description>
+  </metadata>
+  <files>
+    <file src="*.*" target="lib\net45" />
+  </files>
+</package>
