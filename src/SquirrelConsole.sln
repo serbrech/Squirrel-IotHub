@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquirrelConsole", "SquirrelConsole\SquirrelConsole.csproj", "{A861F392-6BAE-45D9-8608-DCBC2EACFF3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectMethodInvoker", "DirectMethodInvoker\DirectMethodInvoker.csproj", "{7286D0F0-4990-4913-AB9D-4CD09AE60A01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A861F392-6BAE-45D9-8608-DCBC2EACFF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A861F392-6BAE-45D9-8608-DCBC2EACFF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A861F392-6BAE-45D9-8608-DCBC2EACFF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7286D0F0-4990-4913-AB9D-4CD09AE60A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7286D0F0-4990-4913-AB9D-4CD09AE60A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7286D0F0-4990-4913-AB9D-4CD09AE60A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7286D0F0-4990-4913-AB9D-4CD09AE60A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
